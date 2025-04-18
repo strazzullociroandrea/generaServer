@@ -10,13 +10,13 @@ Installazione Globale
 
 Puoi installare generaServer globalmente per poterlo usare in qualsiasi cartella del tuo sistema con il comando:
 
-npm install -g generaServer
+npm install -g generaserver
 
 Installazione Locale
 
 Puoi anche installarlo localmente nel tuo progetto:
 
-npm install generaServer
+npm install generaserver
 
 ---
 
